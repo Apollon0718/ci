@@ -1,0 +1,13 @@
+#components-table-demo-drag-sorting tr.drop-over-downward td {
+    border-bottom: 2px dashed #1890ff;
+  }
+  .DottedBox_content {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    height:50%;
+    width: 50%;
+    background:red;
+    
+
+  }
